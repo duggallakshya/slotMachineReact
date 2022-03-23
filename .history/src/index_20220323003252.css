@@ -31,11 +31,4 @@ body{
   height: auto;
   justify-content: center;
   align-items: center;
-  background-color: bisque;
-  /* padding: 0px 30px;*/
-  margin: 0px 600px;
-  position: relative;
-  border: brown;
-  border-style: double;
-
 }

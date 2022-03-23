@@ -26,16 +26,5 @@ body{
   font-family: 'Raleway', sans-serif ;
 }
 .main-div{
-  display: flex;
-  flex-direction: column;
-  height: auto;
-  justify-content: center;
-  align-items: center;
-  background-color: bisque;
-  /* padding: 0px 30px;*/
-  margin: 0px 600px;
-  position: relative;
-  border: brown;
-  border-style: double;
-
+  display: flex
 }
